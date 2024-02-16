@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/Dungeon.umap",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/Dungeon_BuiltData.uasset",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/BP_Torch_Dungeon.uasset",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/BP_Player.uasset",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/BP_CryptRaiderGamemode.uasset",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/BP_Torch_Corridor.uasset",
+				"/Users/mathilde/Documents/Unreal Projects/CryptRaider/Content/BP_SecretWall.uasset"
+			]
+		}
+	]
+}
